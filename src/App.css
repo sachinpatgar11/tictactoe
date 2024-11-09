@@ -1,0 +1,10 @@
+/* src/App.css */
+.app {
+  text-align: center; /* Center align text inside the app */
+}
+
+.title {
+  font-size: 36px; /* Font size for the title */
+  margin-bottom: 20px; /* Space below the title */
+  color: #333; /* Title color */
+}
